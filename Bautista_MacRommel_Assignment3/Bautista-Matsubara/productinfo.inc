@@ -2,6 +2,7 @@
 <?php
 
 //Defines products in array
+//Array records the product's number, description, and price
 $product1 = array('number' => 1,
     'desc' => 'Gold Standard Whey Protein - French Vanilla',
     'price' => 69.99);
@@ -38,8 +39,6 @@ $product9 = array('number' => 9,
     'desc' => 'C4 Pre-Workout - Fruit Punch',
     'price' => 29.99);
 
-
-
-// creating a product array to hold the infomration on individual products
+//Multi-dimensional array to store all of the individual products listed above
 $products = array($product1, $product2, $product3, $product4, $product5, $product6, $product7, $product8, $product9);
 ?>
