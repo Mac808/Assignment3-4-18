@@ -1,0 +1,23 @@
+body
+{
+    background-image: linear-gradient(white, whitesmoke, gray);
+}
+table
+{
+    border: 1pt solid black;
+    background-image: linear-gradient(rosybrown, salmon);
+}
+
+h1
+{
+    font-family: Impact, Charcoal, sans-serif;
+}
+h2
+{
+    font-family:Futurablack, Charcoal, sans-serif;
+}
+
+font
+{
+    
+}
